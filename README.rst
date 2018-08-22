@@ -1,11 +1,13 @@
-######################################
-Implementation of Different Algorithms
-######################################
+##############################################
+Python Implementation of Different Algorithms
+##############################################
 
 Modules Implemented 
 --------------------
 
 1. ANN
+
+    I did this a few years ago as a toy example.
 
 2. k-means
 
@@ -16,6 +18,7 @@ Modules Implemented
             1. initial value
 
                 kmeans++, vanila kmeans
+                initialization with membership, initialization with centroids
 
             2. distance function
 
@@ -34,6 +37,13 @@ Modules Implemented
 		        mean, mode, median
 
 		    6. search/optimization
+
+			    it is always local optimal but should be darn close. 
+
+3. optimization
+
+    steps, planned search, ...
+
 
 
 
