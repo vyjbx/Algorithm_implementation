@@ -40,6 +40,10 @@ Modules Implemented
 
 			    it is always local optimal but should be darn close. 
 
+		Some papers
+
+		    Revisiting k-means: New Algorithms via Bayesian Nonparametrics, by Brian Kulis and Michael Jordan
+
 3. optimization
 
     steps, planned search, ...
